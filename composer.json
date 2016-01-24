@@ -1,5 +1,5 @@
 {
-    "name": "ralfeggert/travello-mobile-detect",
+    "name": "ralfeggert/travello-mobile-detect-mvc",
     "description": "Zend Framework MVC module to provide view helper for mobile detect lib",
     "license": "The MIT License (MIT)",
     "authors": [
