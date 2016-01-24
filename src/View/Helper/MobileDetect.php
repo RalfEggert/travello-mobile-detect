@@ -1,10 +1,10 @@
 <?php
 /**
- * Zend Framework 2/3 module to provide view helper for mobile detect lib
+ * Zend Framework MVC module to provide view helper for mobile detect lib
  *
  * @package    TravelloMobileDetect
  * @author     Ralf Eggert <ralf@travello.de>
- * @link       https://github.com/RalfEggert/travello-mobile-detect
+ * @link       https://github.com/RalfEggert/travello-mobile-detect-mvc
  * @license    http://opensource.org/licenses/MIT The MIT License (MIT)
  */
 
